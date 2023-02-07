@@ -1,4 +1,4 @@
-# flutter_simple
+# flutter_social_login_simple
 
 A new Flutter project.
 
