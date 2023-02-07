@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">KS</string>
+    <string name="facebook_app_id">709772293857105</string>
+    <string name="fb_login_protocol_scheme">fb709772293857105</string>
+    <string name="facebook_client_token">d9913e93c31e21e2f8568b6ced34f8f9</string>
+</resources>

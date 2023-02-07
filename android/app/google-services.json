@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "673628617690",
+    "firebase_url": "https://pointofsales-01.firebaseio.com",
+    "project_id": "pointofsales-01",
+    "storage_bucket": "pointofsales-01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:673628617690:android:89d845a4d860821ded1ee3",
+        "android_client_info": {
+          "package_name": "com.ks.flutter_simple"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "673628617690-2ki2mi1sm2jhcqaqgvr7nsb7a904dc7h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfhUqEiz94zptPuwaWXqDK4RTAuom79YQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "673628617690-2ki2mi1sm2jhcqaqgvr7nsb7a904dc7h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
